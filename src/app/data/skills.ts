@@ -1,0 +1,16 @@
+export const skills = [
+	{ title: 'HTML', progress: '85%' },
+	{ title: 'CSS', progress: '81%' },
+	{ title: 'JavaScript', progress: '72%' },
+	{ title: 'TypeScript', progress: '65%' },
+	{ title: 'React', progress: '89%' },
+	{ title: 'Next', progress: '76%' },
+	{ title: 'Node', progress: '73%' },
+	{ title: 'Express', progress: '65%' },
+	{ title: 'MongoDB', progress: '80%' },
+	{ title: 'Git', progress: '60%' },
+	{ title: 'Tailwind', progress: '65%' },
+	{ title: 'AntDesign', progress: '85%' },
+	{ title: 'Bootstrap', progress: '30%' },
+	{ title: 'MaterialUI', progress: '60%' },
+]
